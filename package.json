@@ -1,0 +1,23 @@
+{
+  "name": "cse340",
+  "version": "1.0.0",
+  "description": "This is my first API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lessleya/CSE341-byui-backendDevelopment.git"
+  },
+  "author": "Lesliee Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lessleya/CSE341-byui-backendDevelopment/issues"
+  },
+  "homepage": "https://github.com/Lessleya/CSE341-byui-backendDevelopment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
